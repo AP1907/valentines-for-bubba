@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #ff758c, #ff7eb3);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.card {
+    background: rgba(0,0,0,0.3);
+    width: 350px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+button {
+    background: white;
+    color: #ff4f81;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 20px;
+    cursor: pointer;
+}
